@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mukesh Kenwat</h1>
 <h3 align="center">"New to front-end development and excited to explore the limitless possibilities of web design and development."</h3>
 
-- 🌱 I’m currently learning **React, Typescript**
+- 🌱 I’m currently learning **Typescript and React**
 
 - 👯 I’m looking to collaborate on **Open-source projects**
 
-- 💬 Ask me about **Html, Css, Js**
+- 💬 Ask me about **HTML, CSS, JS**
 
 - 📫 How to reach me **mukeshkewat1908@gmail.com**
 
